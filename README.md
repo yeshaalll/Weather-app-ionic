@@ -1,4 +1,3 @@
 # Weather-app-ionic
 
-Nama : Yesha Anjhela Laurie
-NIM  : 210211060201
+Yesha Anjhela Laurie - 210211060201
