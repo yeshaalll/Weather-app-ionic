@@ -1,0 +1,75 @@
+.navbar .title {
+  font-weight: 600;
+}
+
+ion-card.info {
+  color: #ffff;
+  background-color: #fbab7e;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+}
+
+ion-card-content {
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+}
+
+ion-card-content .top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.location {
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.suhu .main {
+  display: flex;
+  align-items: center;
+  height: 110px;
+  margin-top: 40px;
+}
+
+.suhu .number {
+  margin-right: 5px;
+  font-size: 90px;
+  font-weight: 500;
+}
+
+.suhu .celcius {
+  font-size: 30px;
+  font-weight: 600;
+  transform: translateY(-24px);
+}
+
+.suhu .celcius span:last-child {
+  padding-left: 2px;
+}
+
+.description {
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+}
+
+.description .title {
+  padding-left: 4px;
+}
+
+.by {
+  font-size: 15px;
+  color: rgb(57, 57, 57);
+  text-align: center;
+}
